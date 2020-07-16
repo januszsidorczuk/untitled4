@@ -1,0 +1,4 @@
+Main.class
+EntityFactory\Equipment.class
+Services\EquipmentService.class
+Servlets\EquipmentServlet.class
